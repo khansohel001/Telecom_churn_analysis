@@ -1,4 +1,9 @@
 # telecom-churn-analysis
+
+Click on the following link to checkout the video presentation.
+colab- video link on youtube(define karke)
+ppt- ko explain kro youtube pe
+
 ## Problem Statement
 
 Telecom churn analysis is the process of identifying customers who are likely to cancel their service or switch to a different service provider. This is an important problem for telecom companies, as churn can have a significant impact on their revenue and profitability.
@@ -39,4 +44,4 @@ The telecommunications market is already well-established, and the rate of new c
 ---
 
 ## Authors
-linkdin ki lind daal ismein
+linkdin ki link daalni hai ismein
