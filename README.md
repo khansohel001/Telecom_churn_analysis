@@ -44,4 +44,4 @@ The telecommunications market is already well-established, and the rate of new c
 ---
 
 ## Authors
-linkdin ki link daalni hai ismein
+linkedIn-  https://www.linkedin.com/in/mohmmad-sohel-680793252/
